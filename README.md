@@ -16,7 +16,7 @@ if the cost exceeds the limit.
   to know if a pull request adds a massive dependency.
 
 <p align="center">
-  <img src="./img/example.png" alt="Size Limit CLI" width="738" height="434">
+  <img src="./img/example.png" alt="Size Limit CLI" width="738" >
 </p>
 
 With `--why`, Size Limit can tell you *why* your library has this size
@@ -24,7 +24,7 @@ and show the real cost of all your internal dependencies.
 
 <p align="center">
   <img src="./img/why.png" alt="Bundle Analyzer example"
-       width="650" height="335">
+       width="650">
 </p>
 
 <p align="center">
